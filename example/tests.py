@@ -1,5 +1,6 @@
 from unittest import TestCase
 from example.exmath import exsum
+from example.pru.exmath import exsum
 
 
 class ExTestCase(TestCase):
